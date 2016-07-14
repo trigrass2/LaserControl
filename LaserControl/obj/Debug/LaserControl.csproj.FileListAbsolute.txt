@@ -1,0 +1,103 @@
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserControl1\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro2\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro3\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro4\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro5\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContro6\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\LaserControl.exe
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\LaserControl.pdb
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\bin\Debug\LaserControl.exe
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\bin\Debug\LaserControl.pdb
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\bin\Debug\StaubliSoapClient.pdb
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\bin\Debug\StaubliSoapClient.xml
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\LaserContr7\LaserControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\机器人程序及资料问题\LaserContr7\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Users\Administrator\Desktop\机器人程序及资料问题\LaserContr7\LaserControl\obj\Debug\LaserControl.exe
+C:\Users\Administrator\Desktop\机器人程序及资料问题\LaserContr7\LaserControl\obj\Debug\LaserControl.pdb
+S:\TRAINING\DEVELOPING\浙工大Soap控制\LaserContr7\LaserControl\bin\Debug\LaserControl.exe.config
+S:\TRAINING\DEVELOPING\浙工大Soap控制\LaserContr7\LaserControl\obj\Debug\LaserControl.exe
+S:\TRAINING\DEVELOPING\浙工大Soap控制\LaserContr7\LaserControl\obj\Debug\LaserControl.pdb

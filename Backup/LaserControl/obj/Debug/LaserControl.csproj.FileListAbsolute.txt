@@ -1,0 +1,30 @@
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.pdb
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.exe
+C:\Users\shumaojie\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe.config
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.pdb
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.MainForm.resources
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe.config
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.exe
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.pdb
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.exe
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\bin\Debug\LaserControl.pdb
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\bin\Debug\StaubliSoapClient.dll
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\ResolveAssemblyReference.cache
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.MainForm.resources
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.Properties.Resources.resources
+S:\TRAINING\DEVELOPING\浙工大\LaserContr7\Backup\LaserControl\obj\Debug\LaserControl.csproj.GenerateResource.Cache
